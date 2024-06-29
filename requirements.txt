@@ -1,0 +1,6 @@
+gradio
+flask
+gunicorn
+requests
+pillow
+pytube
